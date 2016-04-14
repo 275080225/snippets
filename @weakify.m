@@ -6,10 +6,4 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
----
-title: "@weakify(self)"
-summary: "worked with @strongify"
-completion-scope: Function or Method
----
-
 @weakify(self);
