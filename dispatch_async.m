@@ -1,6 +1,7 @@
 // dispatch_async
 // 
 //
+// IDECodeSnippetCompletionPrefix: dispatch_async
 // IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: 9D737A21-A51C-4A9D-ADA5-90F7BE7C0F4F
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
